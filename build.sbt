@@ -10,9 +10,6 @@ libraryDependencies ++= Seq(
   javaJdbc,
   javaEbean,
   cache,
-  javaWs
-)
-
-appDependencies ++= Seq(
+  javaWs,
   "postgresql" % "postgresql" % "8.4-702.jdbc4"
 )
