@@ -11,5 +11,4 @@ libraryDependencies ++= Seq(
   javaEbean,
   cache,
   javaWs
-  
 )
